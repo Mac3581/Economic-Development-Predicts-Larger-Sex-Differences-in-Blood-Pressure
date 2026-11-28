@@ -6,7 +6,7 @@ This repository contains the R script and data for "Economic Development Predict
 
 The primary analysis combines country-level, sex-specific SBP estimates with gross domestic product (GDP) per capita for 1980, 1990, 2000, and 2008. Supplementary analyses consider the Human Development Index (HDI), the Gender Inequality Index (GII), and lagged GDP per capita. A replication analysis uses blood pressure estimates from the NCD Risk Factor Collaboration (NCD-RisC) for 1975–2015.
 
-The study uses longitudinal mixed-effects models, region-clustered robust inference, within–between (Mundlak) decomposition, and two-way fixed-effects regression. The unit of observation is the country–sex–year. The analyses are ecological and observational.
+The study uses longitudinal mixed-effects models, region-clustered robust inference, within–between (Mundlak) decomposition, and two-way fixed-effects regression. The unit of observation is the country–sex–year. 
 
 ## Data sources
 
